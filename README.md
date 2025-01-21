@@ -15,7 +15,8 @@ function draw(){
   text(names[2],20,200);
 }
 ```
-![Uploading Screenshot 2025-01-21 153956.png…]()
+![Screenshot 2025-01-21 153956](https://github.com/user-attachments/assets/28d2e310-52ac-4111-8939-337aca45688e)
+
 
 ## Notes(working progress)
 
