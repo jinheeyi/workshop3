@@ -33,12 +33,13 @@ After resolving this problem, it allowed me to move forward with the project suc
 ![Screenshot 2025-01-22 164015](https://github.com/user-attachments/assets/0d43f4a9-bace-4db2-bbb6-eed77c4e51b3)
 ![Screenshot 2025-01-22 164049](https://github.com/user-attachments/assets/5115719c-46c1-403c-b849-afa0602fd9d4)
 - I think I was quite happy on how I choose the photos, which was a timeslapse from morning to night time. The sense of rhythm and continuity resonates with the viewers. 
-![20250116_210422](https://github.com/user-attachments/assets/521f1f4c-5504-4ad3-bb9e-49b27d632c2a)
-![20250116_203425](https://github.com/user-attachments/assets/e99d471b-4652-4fc2-bed7-d73ee9beeb25)
-![20250116_205231](https://github.com/user-attachments/assets/a6814ced-fe11-4e91-8793-e694697e3e74)
-![20250116_183255](https://github.com/user-attachments/assets/5df62d4a-7bb4-4c45-b06c-18a5e43b311d)
-- After completing a simple collage, I thought putting filter would be fun, so decided to add 'BLUR' effect, and it turned out quite significant and interesting too.
+- After completing a simple collage, I thought putting filter would be fun, so decided to add 'BLUR' effect, and it turned out quite significant and interesting. 
 ![image](https://github.com/user-attachments/assets/b924d3f9-0f29-47ad-9ebb-f9b37637a8bf)
+![Screenshot 2025-01-22 164809](https://github.com/user-attachments/assets/8425a038-c806-49ed-a417-60ea2230837a)
+
+**RESULT**
+![Screenshot 2025-01-22 170444](https://github.com/user-attachments/assets/fa215a9e-04a6-4f9a-973a-f66eb5f9d77e)
+
 
 
 ## Conclusion(+ further improvement)
