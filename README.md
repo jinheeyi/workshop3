@@ -39,7 +39,7 @@ Once this issue was resolved, I was able to proceed with the project successfull
 
 
 **Adding text**
-```ruby
+```rubyi
  fill(255); // white text
   text("i have finished my day... goodbye", width / 2, height / 2); // centered text
 ```
@@ -57,4 +57,4 @@ textSize(32); // setting font size
 
 ## Conclusion(+ further improvement)
 - By studying workshop 3, and getting help from friends on this page, I gained a deeper understanding of how to manipulate images programmatically. It was quite confusing and were some errors happening on visual studio code, but I will have to improve on adding weight/2 and height/2 on images and also double-check if something is missing inside the sketch.
-- What I need for further improvement (again) is the idea. For this sketch, I looked again and it didn't looked very abstract or interesting. It looked like somewhere you can see from pinterest, which I didn't quite liked 
+- For further improvement, I recognized that I need to refine my ideas. Today's sketch, upon reflection, lacked the abstract and engaging qualities present in my earlier workshop pieces. It resembled something one might find in a Pinterest collage, which I didn't particularly admire. However, I viewed it as more of a practice exercise- a skill- building attempt to make a photo into a sketch. In that sense, I found the process enjoyable and somewhat rewarding. 
