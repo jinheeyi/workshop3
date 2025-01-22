@@ -27,6 +27,7 @@ function draw(){
 }
 ```
 After resolving this problem, it allowed me to move forward with the project successfully. 
+
 **WORKSHOP NOTES**
 ![Screenshot 2025-01-22 164026](https://github.com/user-attachments/assets/61bd8b27-01b2-4b0a-8901-34cec1943ad3)
 ![Screenshot 2025-01-22 164015](https://github.com/user-attachments/assets/0d43f4a9-bace-4db2-bbb6-eed77c4e51b3)
