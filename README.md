@@ -2,8 +2,8 @@ Website link: https://jinheeyi.github.io/workshop3/
 
 ## Introduction
 - For Workshop 3, I decided to create a collage that captures the ongoing time through the changing colors of the sky. Using four photographs I took with my phone, I aimed to document how the day unfolds and transitions, from morning to evening (night). I want to experience and highlight the dynamic shifts in light and colour that mark the progression of the day.
-- Exploring, I delved deeper to explore the resources provided on https://p5js.org/reference/p5/image/, which offers detailed guidance on calculating image size, as well as determining width and height. Using these insights, I plan to include techniques from the examples to enhance the visual and technical aspects for my collage coding.
-- I decided to look into workshop 3 video, and make the coding. https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968. 
+- Exploring, I delved deeper to explore the resources provided on https://p5js.org/reference/p5/image/, which offers detailed guidance on calculating image size, as well as determining width and height. Using these insights, I plan to include techniques from the examples to enhance the visual and technical aspects for my collage coding. 
+- I decided to look into workshop 3 video, image() resources and start the code. https://canvas.auckland.ac.nz/courses/121821/pages/week-2-overview?module_item_id=2435968. 
 
 ## Notes(working progress)
 **starting point**
@@ -26,7 +26,7 @@ function draw(){
   image(imgs[2], 0, 0);
 }
 ```
-After resolving this problem, it allowed me to move forward with the project successfully and confidently.
+Once this issue was resolved, I was able to proceed with the project successfully and with confidence. The images I selected were highly appropriate for the workshop, as they effectively conveyed my intention to highlight the nature of a single day.
 
 **WORKSHOP NOTES**
 ![Screenshot 2025-01-22 164026](https://github.com/user-attachments/assets/61bd8b27-01b2-4b0a-8901-34cec1943ad3)
@@ -37,6 +37,7 @@ After resolving this problem, it allowed me to move forward with the project suc
 ![image](https://github.com/user-attachments/assets/b924d3f9-0f29-47ad-9ebb-f9b37637a8bf)
 ![Screenshot 2025-01-22 164809](https://github.com/user-attachments/assets/8425a038-c806-49ed-a417-60ea2230837a)
 - I thought with the blurred collage, I was determined to write a text in the middle with the font 'Courier New', making it aesthetic and simple.
+
 
 **Adding text**
 ```ruby
