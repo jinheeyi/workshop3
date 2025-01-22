@@ -37,6 +37,7 @@ After resolving this problem, it allowed me to move forward with the project suc
 ![image](https://github.com/user-attachments/assets/b924d3f9-0f29-47ad-9ebb-f9b37637a8bf)
 ![Screenshot 2025-01-22 164809](https://github.com/user-attachments/assets/8425a038-c806-49ed-a417-60ea2230837a)
 - I thought with the blurred collage, I was determined to write a text in the middle with the font 'Courier New', making it aesthetic and simple.
+
 **Adding text**
 ```ruby
  fill(255); // white text
