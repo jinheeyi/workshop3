@@ -1,4 +1,4 @@
-Website link:
+Website link:https://jinheeyi.github.io/workshop3/
 
 ## Introduction
 - For Workshop 3, I decided to create a collage that captures the ongoing time through the changing colors of the sky. Using four photographs I took with my phone, I aimed to document how the day unfolds and transitions, from morning to evening (night). I want to experience and highlight the dynamic shifts in light and colour that mark the progression of the day.
