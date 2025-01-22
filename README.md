@@ -53,8 +53,7 @@ textSize(32); // setting font size
 
 **RESULT**
 ![Screenshot 2025-01-22 170444](https://github.com/user-attachments/assets/fa215a9e-04a6-4f9a-973a-f66eb5f9d77e)
-
-
+![Screenshot 2025-01-22 172230](https://github.com/user-attachments/assets/ace5b869-9c20-4496-8fd3-8f304f47f299)
 
 ## Conclusion(+ further improvement)
 - By studying workshop 3, and getting help from friends on this page, I gained a deeper understanding of how to manipulate images programmatically. It was quite confusing and were some errors happening on visual studio code, but I will have to improve on adding weight/2 and height/2 on images and also double-check if something is missing inside the sketch.
