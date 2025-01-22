@@ -36,6 +36,19 @@ After resolving this problem, it allowed me to move forward with the project suc
 - After completing a simple collage, I thought putting filter would be fun, so decided to add 'BLUR' effect, and it turned out quite significant and interesting. 
 ![image](https://github.com/user-attachments/assets/b924d3f9-0f29-47ad-9ebb-f9b37637a8bf)
 ![Screenshot 2025-01-22 164809](https://github.com/user-attachments/assets/8425a038-c806-49ed-a417-60ea2230837a)
+- I thought with the blurred collage, I was determined to write a text in the middle with the font 'Courier New', making it aesthetic and simple.
+**Adding text**
+```ruby
+ fill(255); // white text
+  text("i have finished my day... goodbye", width / 2, height / 2); // centered text
+```
+**Font size**
+```ruby
+textSize(32); // setting font size
+  textAlign(CENTER, CENTER); // center text
+  textFont("Courier New"); // courier new text font
+}
+```
 
 **RESULT**
 ![Screenshot 2025-01-22 170444](https://github.com/user-attachments/assets/fa215a9e-04a6-4f9a-973a-f66eb5f9d77e)
