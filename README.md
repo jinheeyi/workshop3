@@ -10,7 +10,7 @@ Website link:
 ![Screenshot 2025-01-21 152410](https://github.com/user-attachments/assets/ef794495-dd67-4f78-8c44-7330f1d0bf19)
 ![IMG_1928](https://github.com/user-attachments/assets/ce9afbd5-c1f5-4ae6-9d80-d26fd4b60b3e)
 **coding progress**
-- When I first started, everything seemed to be progressing smoothly as I built the project step by step. However, I encountered an issue where the images didn’t display in the sketch. Unsure of how to resolve it, I reached out to a friend for assistance. She helped me identify and address the error, which turned out to be related to
+- When I first started, everything seemed to be progressing smoothly as I built the project step by step. However, I encountered an issue where the images didn’t display in the sketch. Unsure of how to resolve it, I reached out to a friend and leo for assistance. They helped me identify and address the error, which turned out to be related to
 ```ruby
 function setup(){
 createCanvas(400,400);
@@ -26,17 +26,20 @@ function draw(){
   image(imgs[2], 0, 0);
 }
 ```
-After resolving this problem, it allowed me to move forward with the project successfully. 
+After resolving this problem, it allowed me to move forward with the project successfully and confidently.
 
 **WORKSHOP NOTES**
 ![Screenshot 2025-01-22 164026](https://github.com/user-attachments/assets/61bd8b27-01b2-4b0a-8901-34cec1943ad3)
 ![Screenshot 2025-01-22 164015](https://github.com/user-attachments/assets/0d43f4a9-bace-4db2-bbb6-eed77c4e51b3)
 ![Screenshot 2025-01-22 164049](https://github.com/user-attachments/assets/5115719c-46c1-403c-b849-afa0602fd9d4)
-- I think I was quite happy on how I choose the photos, which was a timeslapse from morning to night time.
+- I think I was quite happy on how I choose the photos, which was a timeslapse from morning to night time. The sense of rhythm and continuity resonates with the viewers. 
 ![20250116_210422](https://github.com/user-attachments/assets/521f1f4c-5504-4ad3-bb9e-49b27d632c2a)
 ![20250116_203425](https://github.com/user-attachments/assets/e99d471b-4652-4fc2-bed7-d73ee9beeb25)
 ![20250116_205231](https://github.com/user-attachments/assets/a6814ced-fe11-4e91-8793-e694697e3e74)
 ![20250116_183255](https://github.com/user-attachments/assets/5df62d4a-7bb4-4c45-b06c-18a5e43b311d)
+- After completing a simple collage, I thought putting filter would be fun, so decided to add 'BLUR' effect, and it turned out quite significant and interesting too.
+![image](https://github.com/user-attachments/assets/b924d3f9-0f29-47ad-9ebb-f9b37637a8bf)
+
 
 ## Conclusion(+ further improvement)
 - By studying workshop 3, and getting help from friends on this page, I gained a deeper understanding of how to manipulate images programmatically. It was quite confusing and were some errors happening on visual studio code, but I will have to improve on adding weight/2 and height/2 on images and also double-check if something is missing inside the sketch.
