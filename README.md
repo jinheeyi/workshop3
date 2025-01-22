@@ -32,11 +32,10 @@ Once this issue was resolved, I was able to proceed with the project successfull
 ![Screenshot 2025-01-22 164026](https://github.com/user-attachments/assets/61bd8b27-01b2-4b0a-8901-34cec1943ad3)
 ![Screenshot 2025-01-22 164015](https://github.com/user-attachments/assets/0d43f4a9-bace-4db2-bbb6-eed77c4e51b3)
 ![Screenshot 2025-01-22 164049](https://github.com/user-attachments/assets/5115719c-46c1-403c-b849-afa0602fd9d4)
-- I think I was quite happy on how I choose the photos, which was a timeslapse from morning to night time. The sense of rhythm and continuity resonates with the viewers. 
 - After completing a simple collage, I thought putting filter would be fun, so decided to add 'BLUR' effect, and it turned out quite significant and interesting. 
 ![image](https://github.com/user-attachments/assets/b924d3f9-0f29-47ad-9ebb-f9b37637a8bf)
 ![Screenshot 2025-01-22 164809](https://github.com/user-attachments/assets/8425a038-c806-49ed-a417-60ea2230837a)
-- I thought with the blurred collage, I was determined to write a text in the middle with the font 'Courier New', making it aesthetic and simple.
+- I thought with the blurred collage, I was determined to write a text in the middle with the font 'Courier New', making it aesthetic, simple and with a meaning too. 
 
 
 **Adding text**
@@ -58,4 +57,4 @@ textSize(32); // setting font size
 
 ## Conclusion(+ further improvement)
 - By studying workshop 3, and getting help from friends on this page, I gained a deeper understanding of how to manipulate images programmatically. It was quite confusing and were some errors happening on visual studio code, but I will have to improve on adding weight/2 and height/2 on images and also double-check if something is missing inside the sketch.
-- 
+- What I need for further improvement (again) is the idea. For this sketch, I looked again and it didn't looked very abstract or interesting. It looked like somewhere you can see from pinterest, which I didn't quite liked 
