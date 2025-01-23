@@ -30,6 +30,7 @@ Once this issue was resolved, I was able to proceed with the project successfull
 
 **WORKSHOP NOTES**
 ![image](https://github.com/user-attachments/assets/6c9156f2-a789-44b4-ae20-c5cedc1d9b4f)
+**calculation from my helping friend**
 ![Screenshot 2025-01-22 164026](https://github.com/user-attachments/assets/61bd8b27-01b2-4b0a-8901-34cec1943ad3)
 ![Screenshot 2025-01-22 164015](https://github.com/user-attachments/assets/0d43f4a9-bace-4db2-bbb6-eed77c4e51b3)
 ![Screenshot 2025-01-22 164049](https://github.com/user-attachments/assets/5115719c-46c1-403c-b849-afa0602fd9d4)
