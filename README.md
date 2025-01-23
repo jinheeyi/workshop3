@@ -28,6 +28,7 @@ function draw(){
 ```
 Once this issue was resolved, I was able to proceed with the project successfully and with confidence. The images I selected were highly appropriate for the workshop, as they effectively conveyed my intention to highlight the nature of a single day.
 
+
 **WORKSHOP NOTES**
 ![image](https://github.com/user-attachments/assets/6c9156f2-a789-44b4-ae20-c5cedc1d9b4f)
 **calculation from my helping friend**
